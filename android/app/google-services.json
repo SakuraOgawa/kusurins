@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "8562716595",
+    "project_id": "kusurins",
+    "storage_bucket": "kusurins.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8562716595:android:4c7c22f07b6f423fc7a5c6",
+        "android_client_info": {
+          "package_name": "com.example.kusurins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8562716595-f7afu4ovq3vercm8ipss3c0bdprv3k62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC766gkxzzB6Yt9Fa4Gciz4yF9RFL27wBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8562716595-f7afu4ovq3vercm8ipss3c0bdprv3k62.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8562716595-4npfvhhabnv0st2244au3b6gfdr4hps4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voicemessage"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8562716595:android:0f0addae4b0f9ee9c7a5c6",
+        "android_client_info": {
+          "package_name": "com.example.voicemessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8562716595-f7afu4ovq3vercm8ipss3c0bdprv3k62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC766gkxzzB6Yt9Fa4Gciz4yF9RFL27wBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8562716595-f7afu4ovq3vercm8ipss3c0bdprv3k62.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8562716595-4npfvhhabnv0st2244au3b6gfdr4hps4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.voicemessage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
